@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, Im a game dev ✌️
 
 <!--
 **Hydsk/Hydsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
