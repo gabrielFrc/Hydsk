@@ -27,7 +27,4 @@ Here are some ideas to get you started:
 
 <div> 
   <a href="https://www.linkedin.com/in/gabriel-f-82328b214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Hydsk/Hydsk/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
