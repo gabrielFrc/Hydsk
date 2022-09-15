@@ -1,7 +1,7 @@
 ### Hi, Im a game dev ✌️
 
 <!--
-**Hydsk/Hydsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gabrielFrc/gabrielFrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <a href="https://github.com/Hydsk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hydsk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hydsk&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/gabrielFrc">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielFrc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielFrc&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
