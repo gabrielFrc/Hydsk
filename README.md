@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
-
 <div align="center">
   <a href="https://github.com/gabrielFrc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielFrc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -31,3 +29,5 @@ Here are some ideas to get you started:
 <div> 
   <a href="https://www.linkedin.com/in/gabriel-f-82328b214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
