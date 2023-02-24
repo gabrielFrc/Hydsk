@@ -29,5 +29,3 @@ Here are some ideas to get you started:
 <div> 
   <a href="https://www.linkedin.com/in/gabriel-f-82328b214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielFrc)](https://github.com/gabrielFrc/github-readme-stats)
