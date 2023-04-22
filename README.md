@@ -1,4 +1,4 @@
-### Gabriel França, Game Dev
+### Gabriel França, Developer
 ### 
 
 <div align="center">
