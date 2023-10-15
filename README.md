@@ -1,6 +1,6 @@
 ### Gabriel França, Developer
 
-![image](https://github.com/gabrielFrc/gabrielFrc/assets/70562629/046ebad8-3021-44e7-8423-b34c8c0542c5)
+<img src="https://github.com/gabrielFrc/gabrielFrc/assets/70562629/046ebad8-3021-44e7-8423-b34c8c0542c5" width="700">
 
 <div align="center">
   ✨ Coding . . . ✨
