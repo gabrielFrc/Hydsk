@@ -7,7 +7,7 @@
   <p><b>Hello, my name is Gabriel, nice to meet you!</b></p>
   <p>I'm a web developer, please feel free to check my projects :) .</p>
 
-  Acesse meu portfólio | Baixe meu currículo
+  [Acesse meu portfólio](https://gabrielfrc.github.io/portfolio/) | [Baixe meu currículo]()
 </div>
 
 <div align="center">
