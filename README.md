@@ -4,8 +4,10 @@
 
 <div align="center">
   ✨ Coding . . . ✨
-  <h1>Sobre mim</h1>
-  <p>Olá, sou desenvolvedor web, possuo as habilidades de desenvolver na parte de Front End com as tecnologias: React.js, Redux.js e sei o básico de Angular com TypeScript. No Back End, ainda estou estudando: Java com o framework Spring, mas já sei o básico de Rest API, integração com banco de dados SQL, migrations dentro do código pra facilitar consultas no banco de dados e Swagger para a documentação do projeto. Tecnologias adicionais que posso usar no dia a dia: Git, GitHub, Postman, Figma, Microsoft Teams e Trello.</p>
+  <p><b>Hello, my name is Gabriel, nice to meet you!</b></p>
+  <p>I'm a web developer, please feel free to check my projects :) .</p>
+
+  Acesse meu portfólio | Baixe meu currículo
 </div>
 
 <div>
