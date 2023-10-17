@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  </br></br></br>
+  </br>
   
   [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielFrc&&layout=donut-vertical&theme=dracula&exclude_repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 </div>
