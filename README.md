@@ -7,10 +7,11 @@
   <p><b>Hello, my name is Gabriel, nice to meet you!</b></p>
   <p>I'm a web developer, please feel free to check my projects :) .</p>
 
-  [Acess my portfolio](https://gabrielfrc.github.io/portfolio/) | [Download my CV]()
+  [Acess my portfolio](https://gabrielfrc.github.io/portfolio/) | [Download my CV](https://github.com/gabrielFrc/gabrielFrc/files/13026037/Curriculo_Dev.pdf)
 </div>
 
 <div align="center">
+
   </br>
   
   [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielFrc&&layout=donut-vertical&theme=dracula&exclude_repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
