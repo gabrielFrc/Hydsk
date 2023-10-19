@@ -4,10 +4,10 @@
 </div>
 
 <div align="center">
-  <p><b>Hello, my name is Gabriel, nice to meet you!</b></p>
-  <p>I'm a web developer, please feel free to check my projects :) .</p>
+  <p><b>Olá, meu nome é Gabriel, prazer em conhecê-lo!</b></p>
+  <p>Sou um desenvolvedor web, se sinta a vontade em explorar meus projetos :) .</p>
 
-  [Acess my portfolio](https://gabrielfrc.github.io/portfolio/) | [Download my CV](https://github.com/gabrielFrc/gabrielFrc/files/13026037/Curriculo_Dev.pdf)
+  [Acessar meu portfolio](https://gabrielfrc.github.io/portfolio/) | [Baixe meu currículo](https://github.com/gabrielFrc/gabrielFrc/files/13026037/Curriculo_Dev.pdf)
 </div>
 
 <div align="center">
