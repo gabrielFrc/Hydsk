@@ -7,10 +7,11 @@
   <p><b>Olá, meu nome é Gabriel, prazer em conhecê-lo!</b></p>
   <p>Sou um desenvolvedor web, se sinta a vontade em explorar meus projetos :) .</p>
 
-  [Acessar meu portfolio](https://gabrielfrc.github.io/portfolio/) | [Baixe meu currículo](https://github.com/gabrielFrc/gabrielFrc/files/13026037/Curriculo_Dev.pdf)
+  [Acessar meu portfolio](https://gabrielfrc.github.io/portfolio/) | [Baixe meu currículo](https://github.com/gabrielFrc/gabrielFrc/files/13310915/Curriculo_Dev.pdf)
 </div>
 
 <div align="center">
+
 
   </br>
   
