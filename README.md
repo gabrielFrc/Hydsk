@@ -1,25 +1,49 @@
-<div align="center">
-  <img src="https://github.com/gabrielFrc/gabrielFrc/assets/70562629/de8b19b3-277d-4f4d-b7ef-3a20328c6362" width="700">
-  </br></br>
-</div>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gabriel França</h1>
 
-<div align="center">
-  <p><b>Olá, meu nome é Gabriel, prazer em conhecê-lo!</b></p>
-  <p>Sou um desenvolvedor web, se sinta a vontade em explorar meus projetos :) .</p>
+- 🔥 Web Developer
 
-  [Acessar meu portfolio](https://gabrielfrc.github.io/portfolio/) | [Baixe meu currículo](https://github.com/gabrielFrc/gabrielFrc/files/13310915/Curriculo_Dev.pdf)
-</div>
+- ⚡ Fun fact **Oneye 😜**
 
-<div align="center">
+- 👨‍💻 More at [My portfolio](https://gabrielfrc.github.io/portfolio/)
 
 
-  </br>
-  
-  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielFrc&&layout=donut-vertical&theme=dracula&hide=shaderlab,hlsl&exclude_repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
-<br>
+<br><br>
 
-<div> 
-  <a href="https://www.linkedin.com/in/gabriel-f-82328b214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Csharp](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp)&nbsp;
+![.NET](https://img.shields.io/badge/-Dotnet-05122A?style=flat&logo=dotnet)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoftsqlserver)&nbsp;
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=gabrielFrc&show_icons=true&theme=vision-friendly-dark" alt="gabrielFrc's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielFrc&hide=shaderlab,hlsl&layout=compact&theme=vision-friendly-dark" alt="gabrielFrc's most languages"/>
+</p>
+<!--
+ A commentary
+-->
+
+<br><br>
+
+## Contact
+
+<p align="left" style="background:yellow">
+<a href="https://linkedin.com/in/gabriel-f-82328b214/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-gabrielfrc-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+</p>
